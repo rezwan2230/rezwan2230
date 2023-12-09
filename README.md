@@ -19,7 +19,7 @@
 
 ## Current Stats
  <p align="center" dir="auto"><a target="_blank" href="https://www.facebook.com/profile.php?id=100025797519925"><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" style="max-width: 100%;"></a>
-    <a href="https://www.facebook.com/mirhussainmurtaza" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Facebook.png" style="max-width: 100%;"></a>
+    <a href="https://www.linkedin.com/in/md-rezwanul-haque-3bb207264/" rel="nofollow"><img height="75" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="max-width: 100%;"></a>
     <a href="https://twitter.com/_mir_hussain_" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Twitter.png" style="max-width: 100%;"> </a>
 </p>
 
