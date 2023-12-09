@@ -5,4 +5,6 @@
 ### ⚡ Fun fact: ...
 
  
-                                                              [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian)](https://git.io/streak-stats)
+<div>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian)](https://git.io/streak-stats)
+</div>
