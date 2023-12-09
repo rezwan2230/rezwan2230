@@ -13,17 +13,16 @@
 
 ## Connect With Me
 
-<button class="reach-out-button" onclick="window.location.href='https://www.facebook.com/profile.php?id=100025797519925'">
-        <div><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt=""></div>
-        <div>FACEBOOK</div>
-    </button>
+
     
 
 
 ## Current Stats
-<p align="center" dir="auto">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian" alt="GitHub Streak" />
+ <p align="center" dir="auto"><a target="_blank" href="https://www.facebook.com/profile.php?id=100025797519925"><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" style="max-width: 100%;"></a>
+    <a href="https://www.facebook.com/mirhussainmurtaza" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Facebook.png" style="max-width: 100%;"></a>
+    <a href="https://twitter.com/_mir_hussain_" rel="nofollow"><img height="75" src="https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/Twitter.png" style="max-width: 100%;"> </a>
 </p>
+
 
 
 
