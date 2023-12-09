@@ -5,6 +5,6 @@
 ### ⚡ Fun fact: ...
 
  
-<div style="display: flex;  margin-left: auto; margin-right: auto;">
+<p align="center" dir="auto">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian" alt="GitHub Streak" />
-</div>
+</p>
