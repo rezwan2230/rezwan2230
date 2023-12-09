@@ -16,7 +16,7 @@
 
 
  ## Technologies that I know
- <p align="center padding: 120px 0px 20px 0px;">
+ <p align="center; padding: 120px 0px 20px 0px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,java,python&perline=4" />
   </a>
