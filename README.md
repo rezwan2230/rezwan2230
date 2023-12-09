@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/d1/59/cb/d159cbe4f6ba5a6599217f693e4459ac.jpg">
+
 ## Current overview
 ###  🌱 I’m currently learning - Mern Stack web development
 ### 👯 I’m looking for - A company where I can show my skills.
