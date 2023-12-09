@@ -1,7 +1,8 @@
 ## Current overview
 ###  🌱 I’m currently learning - Mern Stack web development
 ### 👯 I’m looking for - A company where I can show my skills.
-### ⚡ Fun fact: 
+### 🤺 I'm trying - To learn Algorithm and Data Structure
+### ⚡ Fun fact: - I love to create Intricate design
 
  ## Technologies that I know
  
