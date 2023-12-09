@@ -13,7 +13,7 @@
 
 ## Connect With Me
  <p align="center" dir="auto"><a target="_blank" href="https://www.facebook.com/profile.php?id=100025797519925"><img height="75" src="https://w7.pngwing.com/pngs/788/714/png-transparent-logo-facebook-social-media-business-restaurant-menu-books-blue-text-trademark.png" style="max-width: 100%;"></a>
-    <a href="https://www.linkedin.com/in/md-rezwanul-haque-3bb207264/" rel="nofollow"><img height="75" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="max-width: 100%;"></a>
+    <a href="https://www.linkedin.com/in/md-rezwanul-haque-3bb207264/" rel="nofollow"><img height="75" src="https://logos-world.net/wp-content/uploads/2020/05/Linkedin-Logo.png" style="max-width: 100%;"></a>
     <a href="https://www.behance.net/rezwanulhaque5" rel="nofollow"><img height="75" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" style="max-width: 100%;"> </a>
 </p>
 
