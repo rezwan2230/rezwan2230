@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <p><img align="right" alt="Coding" width="full" src="https://i.pinimg.com/564x/d1/59/cb/d159cbe4f6ba5a6599217f693e4459ac.jpg"></p>
 
 ## Current overview
