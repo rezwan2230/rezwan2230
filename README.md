@@ -13,7 +13,7 @@
 
 ## Reach me out
 
-  <div style="display: flex; gap: 20px; justify-content: center; margin: 40px 10px 40px 0px;">
+  <div style="display:flex; gap:20px; justify-content:center; margin: 40px 10px 40px 0px;">
     <button onclick="window.location.href='https://www.facebook.com/profile.php?id=100025797519925'" style="display: flex; align-items: center; justify-content: center; gap: 10px; background-color: #172F45; border: 0; padding: 15px 8px 
     15px 8px; border-radius: 5px; height: 40px; width: 150px; height: 50px;">
         <div><img style="height: 30px; width:30px;;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt=""></div>
