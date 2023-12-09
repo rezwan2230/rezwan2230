@@ -1,6 +1,8 @@
 
 ## Current overview
 ###  🌱 I’m currently learning - Mern Stack web development
+### ✨ I’m using React - For attractive dynamic UI
+### 🖇 I use Express & MongoDb - For robust backend.
 ### 👯 I’m looking for - A company where I can show my skills.
 ### 🤺 I'm trying - To learn Algorithm and Data Structure
 ### ⚡ Fun fact: - I love to create Intricate design
