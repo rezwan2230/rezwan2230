@@ -12,10 +12,28 @@
 
 
 ## Reach me out
-<button class="btn">
-  Button
-  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" /></svg>
-</button>
+<div style="display: flex; gap: 20px; justify-content: center; margin: 40px 10px 40px 0px;">
+    <button onclick="window.location.href='https://www.facebook.com/profile.php?id=100025797519925'" style="display: flex; align-items: center; justify-content: center; gap: 10px; background-color: #172F45; border: 0; padding: 15px 8px 
+    15px 8px; border-radius: 5px; height: 40px; width: 150px; height: 50px;">
+        <div><img style="height: 30px; width:30px;;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt=""></div>
+        <div style="color: white; font-weight: 700;">FACEBOOK</div>
+    </button>
+
+    <button onclick="window.location.href='https://www.linkedin.com/in/md-rezwanul-haque-3bb207264/'" style="display: flex; align-items: center; justify-content: center; gap: 10px; background-color: #172F45; border: 0; padding: 15px 8px 
+    15px 8px; border-radius: 5px; height: 40px; width: 150px; height: 50px;">
+        <div><img style="height: 30px; width:30px;;" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt=""></div>
+        <div style="color: white; font-weight: 700;">LINKEDIN</div>
+    </button>
+
+    <button onclick="window.location.href='https://www.behance.net/rezwanulhaque5'" style="display: flex; align-items: center; justify-content: center; gap: 10px; background-color: #172F45; border: 0; padding: 15px 8px 
+    15px 8px; border-radius: 5px; height: 40px; width: 150px; height: 50px;">
+        <div><img style="height: 30px; width:30px;;" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt=""></div>
+        <div style="color: white; font-weight: 700;">BEHANCE</div>
+    </button>
+   </div>
+
+
+
 
 ## Current Stats
 <p align="center" dir="auto">
