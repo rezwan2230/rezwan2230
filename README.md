@@ -1,5 +1,5 @@
 
-![#172F45](https://github.com/rezwan2230/rezwan2230/assets/139045369/8329a2ac-248e-45f6-8c2c-55bb84cdcaec)
+![Your paragraph text (1)](https://github.com/rezwan2230/rezwan2230/assets/139045369/a718872a-85e7-4806-8acf-72fc491af7a4)
 
 ## Current overview
 ###  🌱 I’m currently learning - Mern Stack web development
