@@ -25,3 +25,7 @@
 <a href="https://www.behance.net/rezwanulhaque5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rezwanulhaque5" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100025797519925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100025797519925" height="30" width="40" /></a>
 </p>
+
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
