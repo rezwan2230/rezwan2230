@@ -12,6 +12,7 @@
 
 
 ## Reach me out
+<div>
 <div style="display: flex; gap: 20px; justify-content: center; margin: 40px 10px 40px 0px;">
     <a href="https://www.facebook.com/profile.php?id=100025797519925" style="text-decoration: none;">
         <button style="display: flex; align-items: center; justify-content: center; gap: 10px; background-color: #172F45; border: 0; padding: 15px 8px; border-radius: 5px; height: 50px; width: 150px; color: white; font-weight: 700;">
@@ -34,8 +35,7 @@
         </button>
     </a>
 </div>
-
-
+</div>
 
 ## Current Stats
 <p align="center" dir="auto">
