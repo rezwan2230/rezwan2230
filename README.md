@@ -1,6 +1,5 @@
 
-![Banner](https://github.com/rezwan2230/rezwan2230/assets/139045369/7c64f255-84a0-48f0-8f28-2ad4aac20b56)
-
+![Your paragraph text (2)](https://github.com/rezwan2230/rezwan2230/assets/139045369/cb57916f-e6e9-438e-8891-5d2d4baae933)
 
 ## Current overview
 ###  🌱 I’m currently learning - Mern Stack web development
