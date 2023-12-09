@@ -10,6 +10,10 @@
   </a>
 </p>
 
+## Current Stats
+<p align="center" dir="auto">
+  <img sty src="https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian" alt="GitHub Streak" />
+</p>
 
 ## Connect With Me
 ```
@@ -34,10 +38,7 @@
 
 
    
-## Current Stats
-<p align="center" dir="auto">
-  <img sty src="https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian" alt="GitHub Streak" />
-</p>
+
 
 
 
