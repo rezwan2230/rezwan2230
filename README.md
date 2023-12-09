@@ -5,6 +5,6 @@
 ### ⚡ Fun fact: ...
 
  
-<div>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian" alt="GitHub Streak" />
 </div>
