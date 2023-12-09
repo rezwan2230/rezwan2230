@@ -20,7 +20,7 @@
 
    
 ## Current Stats
-<p align="center" dir="auto" style="margin: 220px 0px 20px 0px;">
+<p align="center" dir="auto">
   <img sty src="https://github-readme-streak-stats.herokuapp.com?user=rezwan2230&theme=prussian" alt="GitHub Streak" />
 </p>
 
