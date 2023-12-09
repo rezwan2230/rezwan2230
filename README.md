@@ -28,6 +28,7 @@
 
 
 ## Summary of my Profile
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rezwan2230&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rezwan2230&theme=ayu_mirage)
-
+<p align="center">
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rezwan2230&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rezwan2230&theme=material_palenight&utcOffset=8)
+</p>
