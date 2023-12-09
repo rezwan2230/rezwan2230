@@ -1,4 +1,6 @@
 
+![Your paragraph text (1)](https://github.com/rezwan2230/rezwan2230/assets/139045369/fc7b5bf8-4637-4386-95b7-c042827eeab2)
+
 ## Current overview
 ###  🌱 I’m currently learning - Mern Stack web development
 ### ✨ I’m using React - For attractive dynamic UI
