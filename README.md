@@ -1,6 +1,4 @@
 
-![Your paragraph text (1)](https://github.com/rezwan2230/rezwan2230/assets/139045369/a718872a-85e7-4806-8acf-72fc491af7a4)
-
 ## Current overview
 ###  🌱 I’m currently learning - Mern Stack web development
 ### ✨ I’m using React - For attractive dynamic UI
