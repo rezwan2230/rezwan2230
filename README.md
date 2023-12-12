@@ -1,8 +1,5 @@
 
-![Final](https://github.com/rezwan2230/rezwan2230/assets/139045369/3452ee4d-0ef5-4e40-ac1c-79952d3d9b46)
-
 ![Screenshot 2023-12-12 234308](https://github.com/rezwan2230/rezwan2230/assets/139045369/b2f84528-d3f0-4615-a2d7-9126a0b0c08d)
-
 
 ## Current overview
 ###  🌱 I’m currently learning - Mern Stack web development
