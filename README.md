@@ -33,6 +33,6 @@
 
 
 ## Summary of my Profile
-<p align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rezwan2230&theme=material_palenight)</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rezwan2230&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rezwan2230&theme=material_palenight&utcOffset=8)
